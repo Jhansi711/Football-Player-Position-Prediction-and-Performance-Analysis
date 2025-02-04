@@ -1,0 +1,20 @@
+{
+    "file_path": "/Users/jhansi/Documents/FootballPlayerPositionPrediction/data/player_stats.csv",
+    "columns": {
+      "technical": ["ballcontrol", "dribbling", "slide_tackle", "stand_tackle", "interceptions", "short_pass", "long_pass", "curve", "fk_acc", "volleys"],
+      "shooting": ["shot_power", "long_shots", "finishing"],
+      "goalkeeper": ["gk_positioning", "gk_diving", "gk_handling", "gk_kicking", "gk_reflexes"],
+      "mental": ["aggression", "reactions", "att_position", "interception", "vision", "composure"]
+    },
+    "plot_settings": {
+      "height_weight_scatter": {
+        "size": [10, 6],
+        "title": "Height vs Weight (Colored by Age)"
+      },
+      "correlation_heatmap": {
+        "size": [12, 8],
+        "title": "Correlation Heatmap"
+      }
+    }
+  }
+  
