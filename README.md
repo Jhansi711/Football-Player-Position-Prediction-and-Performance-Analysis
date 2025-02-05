@@ -16,7 +16,6 @@ Visualizations
 Model Results
 1.	Confusion Matrix: To evaluate the performance of the Random Forest Classifier.
 2.	Top 15 Players: A bar chart showing players ranked by their average performance score.
+   
 Contributors
 •	Jhansi Manupati
-License
-This project is open-source under the MIT License.
